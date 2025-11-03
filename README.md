@@ -67,6 +67,10 @@ Sample:
 Settings:
 <img width="1920" height="1080" alt="Screenshot_20251103-122734" src="https://github.com/user-attachments/assets/cc565f97-c4cc-4585-9d44-3b03aba9c79b" />
 
+genesis_genesisPlusGX:
+
+Sample:<img width="1920" height="1080" alt="Screenshot_20251103-131113" src="https://github.com/user-attachments/assets/2a85ee26-da05-4e9d-adf9-2527cd7fc521" />
+Settings: <img width="1920" height="1080" alt="Screenshot_20251103-131132" src="https://github.com/user-attachments/assets/7225bcfb-bf34-4b09-b9d4-8d43cae6ff9f" />
 
 
 
