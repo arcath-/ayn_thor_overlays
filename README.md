@@ -72,5 +72,12 @@ genesis_genesisPlusGX:
 Sample:<img width="1920" height="1080" alt="Screenshot_20251103-131113" src="https://github.com/user-attachments/assets/2a85ee26-da05-4e9d-adf9-2527cd7fc521" />
 Settings: <img width="1920" height="1080" alt="Screenshot_20251103-131132" src="https://github.com/user-attachments/assets/7225bcfb-bf34-4b09-b9d4-8d43cae6ff9f" />
 
+mastersystem_4x:
+
+Sample: <img width="1920" height="1080" alt="Screenshot_20251103-133153" src="https://github.com/user-attachments/assets/d856004f-8d22-4917-ab0e-439615385c00" />
+Settings: <img width="1920" height="1080" alt="Screenshot_20251103-133210" src="https://github.com/user-attachments/assets/f79a6930-e3e0-42ab-be05-8d239990649f" />
+
+
+
 
 
